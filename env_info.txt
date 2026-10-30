@@ -1,0 +1,9 @@
+===== HARDWARE CHECK =====
+CPU / OS: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel (Windows 11)
+Python: 3.14.7
+PyTorch: 2.14.1+cpu
+CUDA Available: False
+CUDA Version: N/A
+GPU Name: N/A
+GPU VRAM (GB): N/A
+==========================

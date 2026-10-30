@@ -1,0 +1,5 @@
+# Third-Party Model Notice
+
+`third_party_cufs_pix2pix.keras` is the Pix2Pix generator published by [goldteaa/pix2pix-face-sketch-to-photo](https://github.com/goldteaa/pix2pix-face-sketch-to-photo), used under that repository's MIT License. Its README says it was trained on 188 paired CUFS sketches and photos. The weights are commit-pinned by content hash in `inference/third_party_cufs_pix2pix.py`.
+
+The upstream MIT license is available at [the source repository's LICENSE](https://github.com/goldteaa/pix2pix-face-sketch-to-photo/blob/main/LICENSE). Preserve its copyright and license notice when redistributing the weights. This model is an optional third-party 2D demo backend, is not validated for forensic identification, and does not provide 3D geometry. CUFS dataset use terms remain separate from this model-code license.
